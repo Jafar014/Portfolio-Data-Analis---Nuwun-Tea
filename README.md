@@ -47,10 +47,3 @@ Peluang pertumbuhan di wilayah tertentu
 Rekomendasi strategis untuk optimasi bisnis
 
 Proyek ini dipublikasikan untuk tujuan portfolio dan pembelajaran.
-
----
-
-**Dibuat oleh**: Jafar014  
-**Tanggal Pembaruan**: 26 Maret 2026  
-**Status**: ✅ Active
-
